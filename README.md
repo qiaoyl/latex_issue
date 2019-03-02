@@ -1,5 +1,6 @@
 # latex_issue
-1. matlab 生成 eps 格式的图没有嵌入字体，ieee 模板无法编译，[参考链接](https://sites.google.com/site/xyzliwen/resource/embed_font_ieee_pdf_explore)
+1. matlab 生成 eps 格式的图没有嵌入字体，ieee 模板无法编译，[参考链接](https://sites.google.com/site/xyzliwen/resource/embed_font_ieee_pdf_explore)， 
+[pdf2eps工具](http://www.xpdfreader.com/download.html)
 > How to embed all fonts in your PDF file
 > When you have one paper being accepted, the first thing is, CONGRATULATIONS! 
 > 
