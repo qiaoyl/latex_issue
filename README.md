@@ -5,3 +5,4 @@
 4. [`Vscode` + `miktex` 更好用的编辑器](https://github.com/qiaoyl/latex_issue/issues/4)
 5. [`Sumatra` 反向搜索](https://github.com/qiaoyl/latex_issue/issues/5)
 6. [中文高亮 `soul` 出错](https://github.com/qiaoyl/latex_issue/issues/7)
+7. [`Pdf` 文件太大](https://github.com/qiaoyl/latex_issue/issues/8)
