@@ -7,3 +7,4 @@
 6. [中文高亮 `soul` 出错](https://github.com/qiaoyl/latex_issue/issues/7)
 7. [`PDF` 文件操作](https://github.com/qiaoyl/latex_issue/issues/8)
 8. [`PDF` 多色高亮](https://github.com/qiaoyl/latex_issue/issues/9)
+9. [`latexdiff`](https://github.com/qiaoyl/latex_issue/issues/10)
